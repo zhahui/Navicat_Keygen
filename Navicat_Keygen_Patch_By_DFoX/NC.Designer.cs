@@ -222,9 +222,9 @@
             this.rmod.AutoSize = true;
             this.rmod.Location = new System.Drawing.Point(81, 18);
             this.rmod.Name = "rmod";
-            this.rmod.Size = new System.Drawing.Size(70, 17);
+            this.rmod.Size = new System.Drawing.Size(88, 17);
             this.rmod.TabIndex = 25;
-            this.rmod.Text = "Modeler";
+            this.rmod.Text = "Modeler v3";
             this.rmod.UseVisualStyleBackColor = true;
             this.rmod.CheckedChanged += new System.EventHandler(this.rn11_CheckedChanged);
             // 

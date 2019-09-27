@@ -98,6 +98,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\DataModeler.ico" />
     <None Include="Resources\NP_x64.exe" />
     <None Include="Resources\NP_x32.exe" />
     <EmbeddedResource Include="BouncyCastle.Crypto.dll" />
@@ -111,7 +112,6 @@
     <None Include="Resources\MySQL.ico" />
     <None Include="Resources\MariaDB.ico" />
     <None Include="Resources\Essentials.ico" />
-    <None Include="Resources\DataModeler.ico" />
     <None Include="Resources\SQLserver.ico" />
     <None Include="Resources\ita.png" />
   </ItemGroup>
